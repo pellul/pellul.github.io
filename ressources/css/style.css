@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Metropolis";
+    src: url("../fonts/Metropolis-Regular.eot");
+    src: url("../fonts/Metropolis-Regular.otf") format('opentype'),
+        url("../fonts/Metropolis-Regular.woff") format('woff'),
+        url("../fonts/Metropolis-Regular.woff2") format('woff2')
+}
+
+body {
+    position: relative;
+    max-width: 500px;
+    width: 100%;
+    min-height: 100%;
+    margin: auto;
+    font-family: "Metropolis";
+}
+
+.notice {
+    position: fixed;
+    left: 0;
+    right: 0;
+    padding-right: 2em;
+    text-align: right;
+    font-size: 0.8em;
+}
+
+.contact-notice {
+    top: 2em;
+}
+
+.wip-notice {
+    bottom: 2em;
+}

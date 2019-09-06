@@ -18,8 +18,6 @@ body {
 
 .notice {
     position: fixed;
-    z-index: -1;
-    left: 0;
     right: 0;
     padding-right: 2em;
     text-align: right;

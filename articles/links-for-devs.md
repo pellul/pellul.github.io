@@ -66,6 +66,7 @@ None of these links are sponsorised.
 ## External links 🔗
 
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Free for Dev](https://free-for.dev/): a list of tools free for developers
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Roadmap.sh](https://roadmap.sh/): Community-driven roadmaps for learning developers

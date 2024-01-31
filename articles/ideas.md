@@ -22,6 +22,7 @@
 | Domotique | 🟢 | 🟠 | Bricolage (LED tiroirs cuisine) |
 | Blindtest Spotify | 🟢 | 🟠 | Importer une playlist Spotify et lancer un blindtest |
 | Life achievements | 🟠 | 🔴 | Des succès à accomplir dans sa vie. (configurés par la commu ? Pourraient être liés à d'autres sites (1 mois sans réseaux sociaux par exemple?)) |
+| My Legacy | - | - | Une page où tu notes tout ce qui t'a marqué comme références culturelles, ce que tu aimerais laisser comme trace pour tes enfants |
 
 
 ### Apprendre Rust + WebAssembly

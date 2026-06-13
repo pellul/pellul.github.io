@@ -2,6 +2,38 @@
 
 _June 2026_
 
+- [My musical journey](#my-musical-journey)
+  - [My background](#my-background)
+  - [Curriculum](#curriculum)
+    - [Exercices](#exercices)
+      - [Constrained Melody](#constrained-melody)
+        - [Exercice 1.1a](#exercice-11a)
+          - [Rules](#rules)
+          - [Result](#result)
+        - [Exercise 1.1b](#exercise-11b)
+          - [Rules](#rules-1)
+          - [Result](#result-1)
+        - [Exercise 1.1c](#exercise-11c)
+          - [Rules](#rules-2)
+          - [Result](#result-2)
+        - [Exercise 1.1d](#exercise-11d)
+          - [Rules](#rules-3)
+          - [Result](#result-3)
+        - [Exercise 1.1e](#exercise-11e)
+          - [Rules](#rules-4)
+          - [Result](#result-4)
+        - [Exercise 1.2a](#exercise-12a)
+          - [Rules](#rules-5)
+          - [Result](#result-5)
+        - [Exercise 1.2b](#exercise-12b)
+          - [Rules](#rules-6)
+          - [Result](#result-6)
+        - [Exercise 1.3](#exercise-13)
+          - [Rules](#rules-7)
+          - [Result](#result-7)
+
+
+
 I've always felt bound to music in a special way. The way it carries emotions was always a mystery, as if a magician were casting a spell on me.
 
 How come a song makes me want to cry? How come it makes me feel nostalgic or hopeful?\
@@ -49,6 +81,62 @@ Steps:
 ###### Result
 
 <audio src="./assets/1_1a.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.1b
+
+###### Rules
+
+Steps:
+
+- Constraint Melody: Reuse the constraints from Exercise 1.1a.
+- Shape: Place the climax (highest note) in measure 3 or 4 instead of measure 6.
+- Arc: Invert the arc; the beginning is intense, and the end settles down.
+
+###### Result
+
+<audio src="./assets/1_1b.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.1c
+
+###### Rules
+
+Steps:
+
+- Same method as Exercise 1.1a: Skeleton → Fill-in.
+- Constraint: Start on E (the fifth of Am).
+- Prohibition: Do not play A on any strong beat (beat 1 or 3) before measure 8.
+- Purpose: Delay the tonic to create tension that only resolves at the end.
+
+###### Result
+
+<audio src="./assets/1_1c.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.1d
+
+###### Rules
+
+Steps:
+
+- Method: Skeleton → Stepwise fill-in → Rhythmic variation.
+- Free Constraint: Define your own constraint. Example: Place at least two rests.
+
+###### Result
+
+<audio src="./assets/1_1d.mp3" controls preload="metadata"></audio>
+
+
+##### Exercise 1.1e
+
+###### Rules
+
+Steps:
+
+- Same method (Skeleton → Stepwise fill-in → Rhythmic variation)
+- Free chord progression
+
+###### Result
+
+<audio src="./assets/1_1e.mp3" controls preload="metadata"></audio>
 
 ##### Exercise 1.2a
 

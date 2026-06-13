@@ -21,15 +21,21 @@ I've played piano for a year when I was around 8 years old, and I've been playin
 
 ---
 
+## Curriculum
+
 ### Exercices
 
-#### Exercise 1.1 — Constrained Melody
+#### Constrained Melody
 
-<audio src="./assets/1_1a.mp3" controls preload="metadata"></audio>
+##### Exercice 1.1a
 
-**Rules**
+###### Rules
 
-Chord Progression: | Am | F | C | G | Am | F | C | G | (8 measures, 4/4 time, 80 bpm, A minor)
+Chord Progression:
+
+| Am | F | C | G | Am | F | C | G |
+
+8 measures, 4/4 time, 80 bpm, A minor
 
 Range: C4 → E5
 
@@ -39,3 +45,79 @@ Steps:
 - Connect: Link these notes using stepwise motion (passing tones on weak beats, using the A minor scale).
 - Shape: Check the arc; the climax must occur in measures 5-6, not earlier.
 - Critical Listening: Identify what sounds flat or generic. Test a rhythmic variation to break the academic stiffness.
+
+###### Result
+
+<audio src="./assets/1_1a.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.2a
+
+###### Rules
+
+Chord Progression:
+
+| Dm7 | Gm7 | Em7b5 | A7 | Dm7 | Bbmaj7 | Gm7 | A7/Dm |
+
+8 measures, 4/4 time, A minor (or related mode)
+
+Structure: Antecedent / Consequent
+
+Steps:
+
+- Skeleton: Place one chord tone on beats 1 and 3. No leaps larger than a fourth.
+- Antecedent (measures 1-4): End on an unstable scale degree to create tension.
+- Consequent (measures 5-6): Reuse the exact rhythm from measures 1-2.
+- Measures 7-8: Resolve the melody toward the tonic on a strong beat.
+- Climax: Ensure the melodic peak occurs within the consequent phrase.
+
+###### Result
+
+<audio src="./assets/1_2a.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.2b
+
+###### Rules
+
+Chord Progression:
+
+| Dm7 | Gm7 | Em7b5 | A7 | Dm7 | Bbmaj7 | Gm7 | A7/Dm |
+
+8 measures, 4/4 time, A minor
+
+Structure: Antecedent / Consequent
+
+Steps:
+
+- Skeleton: Place chord tones on beats 1 and 3.
+- Antecedent (measures 1-4): Fill with leaps (thirds, fourths, fifths). End on an unstable scale degree.
+- Consequent (measures 5-6): Reuse the rhythm from measures 1-2 but alter specific notes.
+- Consequent (measures 7-8): Fill using stepwise motion (conjunct movement).
+- Resolution: Resolve to E (the tonic of C major/A minor relative context or specific target note).
+- Climax: Ensure the melodic peak occurs within the consequent phrase.
+
+###### Result
+
+<audio src="./assets/1_2b.mp3" controls preload="metadata"></audio>
+
+##### Exercise 1.3
+
+###### Rules
+
+Chord Progression:
+
+Choose your own progression
+
+8 measures, 4/4 time, any key
+
+Steps:
+
+- Write 8 measures of blocked chords using your chosen progression.
+- Identify the highest note of each chord to form a raw melody line.
+- Adjust inversions so the top line draws an interesting arc.
+- Extract the line and dress it as a melody (rhythm, added notes, rests).
+- Preserve anchor notes.
+- Put the chords back, listen, and adjust.
+
+###### Result
+
+<audio src="./assets/1_3.mp3" controls preload="metadata"></audio>

@@ -5,67 +5,20 @@ _June 2026_
 - [My musical journey](#my-musical-journey)
   - [My background](#my-background)
   - [Curriculum](#curriculum)
-    - [Exercices](#exercices)
+    - [Phase 1: Melody](#phase-1-melody)
       - [Constrained Melody](#constrained-melody)
-        - [Exercice 1.1a](#exercice-11a)
-          - [Rules](#rules)
-          - [Result](#result)
-        - [Exercise 1.1b](#exercise-11b)
-          - [Rules](#rules-1)
-          - [Result](#result-1)
-        - [Exercise 1.1c](#exercise-11c)
-          - [Rules](#rules-2)
-          - [Result](#result-2)
-        - [Exercise 1.1d](#exercise-11d)
-          - [Rules](#rules-3)
-          - [Result](#result-3)
-        - [Exercise 1.1e](#exercise-11e)
-          - [Rules](#rules-4)
-          - [Result](#result-4)
-        - [Exercise 1.2a](#exercise-12a)
-          - [Rules](#rules-5)
-          - [Result](#result-5)
-        - [Exercise 1.2b](#exercise-12b)
-          - [Rules](#rules-6)
-          - [Result](#result-6)
-        - [Exercise 1.3](#exercise-13)
-          - [Rules](#rules-7)
-          - [Result](#result-7)
-        - [Exercise 2.1](#exercise-21)
-          - [Rules](#rules-8)
-          - [Result](#result-8)
-        - [Exercise 2.2a](#exercise-22a)
-          - [Rules](#rules-9)
-          - [Result](#result-9)
-        - [Exercise 2.2b](#exercise-22b)
-          - [Rules](#rules-10)
-          - [Result](#result-10)
-        - [Exercise 2.3](#exercise-23)
-          - [Rules](#rules-11)
-          - [Result](#result-11)
-        - [Exercise 2.4](#exercise-24)
-          - [Rules](#rules-12)
-          - [Result](#result-12)
-        - [Exercise 2.5](#exercise-25)
-          - [Rules](#rules-13)
-          - [Result](#result-13)
-        - [Exercise 3.1](#exercise-31)
-          - [Rules](#rules-14)
-          - [Result](#result-14)
-        - [Exercise 3.2](#exercise-32)
-          - [Rules](#rules-15)
-          - [Result](#result-15)
-        - [Exercise 3.2b](#exercise-32b)
-          - [Rules](#rules-16)
-          - [Result](#result-16)
-        - [Exercise 3.3](#exercise-33)
-          - [Rules](#rules-17)
-          - [Result](#result-17)
-        - [Exercise 3.4](#exercise-34)
-          - [Rules](#rules-18)
-          - [Result](#result-18)
-
-
+      - [Antecedent / Consequent](#antecedent--consequent)
+      - [Harmonic Reduction](#harmonic-reduction)
+    - [Phase 2: Structure \& Form](#phase-2-structure--form)
+      - [ABA Form \& Modulation](#aba-form--modulation)
+      - [Leitmotiv \& Transformations](#leitmotiv--transformations)
+      - [Theme \& Variations](#theme--variations)
+      - [Free Composition](#free-composition)
+    - [Phase 3: Harmonic Color](#phase-3-harmonic-color)
+      - [Modes \& Ambiances](#modes--ambiances)
+      - [Modal Borrowings](#modal-borrowings)
+      - [Chromatic Mediants](#chromatic-mediants)
+      - [Synthesis](#synthesis)
 
 I've always felt bound to music in a special way. The way it carries emotions was always a mystery, as if a magician were casting a spell on me.
 
@@ -88,13 +41,15 @@ I've played piano for a year when I was around 8 years old, and I've been playin
 
 ## Curriculum
 
-### Exercices
+### Phase 1: Melody
+
+_Before writing music, you need to learn to write a line. Not a chord progression, not a full piece - just a single melody that goes somewhere and means something. Phase 1 is about that: understanding how a melody is built, why some notes feel stable and others create tension, and how to give eight measures a shape with a beginning, a direction, and an end. Every constraint here exists to prevent the most common beginner mistake: a melody that wanders without purpose._
 
 #### Constrained Melody
 
-##### Exercice 1.1a
+_Building a melody step by step: place harmonic anchors first, then connect with stepwise motion, and finally shape an emotional arc with a clear climax._
 
-###### Rules
+**Exercice 1.1a**
 
 Chord Progression:
 
@@ -111,13 +66,11 @@ Steps:
 - Shape: Check the arc; the climax must occur in measures 5-6, not earlier.
 - Critical Listening: Identify what sounds flat or generic. Test a rhythmic variation to break the academic stiffness.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_1a.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.1b
-
-###### Rules
+**Exercise 1.1b**
 
 Steps:
 
@@ -125,13 +78,11 @@ Steps:
 - Shape: Place the climax (highest note) in measure 3 or 4 instead of measure 6.
 - Arc: Invert the arc; the beginning is intense, and the end settles down.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_1b.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.1c
-
-###### Rules
+**Exercise 1.1c**
 
 Steps:
 
@@ -140,40 +91,39 @@ Steps:
 - Prohibition: Do not play A on any strong beat (beat 1 or 3) before measure 8.
 - Purpose: Delay the tonic to create tension that only resolves at the end.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_1c.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.1d
-
-###### Rules
+**Exercise 1.1d**
 
 Steps:
 
 - Method: Skeleton → Stepwise fill-in → Rhythmic variation.
 - Free Constraint: Define your own constraint. Example: Place at least two rests.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_1d.mp3" controls preload="metadata"></audio>
 
 
-##### Exercise 1.1e
-
-###### Rules
+**Exercise 1.1e**
 
 Steps:
 
 - Same method (Skeleton → Stepwise fill-in → Rhythmic variation)
 - Free chord progression
 
-###### Result
+**Result**
 
 <audio src="./assets/1_1e.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.2a
+#### Antecedent / Consequent
 
-###### Rules
+_Learning to create musical questions and answers: the antecedent opens with tension, the consequent resolves it - giving a phrase its sense of direction and completion._
+
+
+**Exercise 1.2a**
 
 Chord Progression:
 
@@ -191,13 +141,11 @@ Steps:
 - Measures 7-8: Resolve the melody toward the tonic on a strong beat.
 - Climax: Ensure the melodic peak occurs within the consequent phrase.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_2a.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.2b
-
-###### Rules
+**Exercise 1.2b**
 
 Chord Progression:
 
@@ -216,13 +164,16 @@ Steps:
 - Resolution: Resolve to E (the tonic of C major/A minor relative context or specific target note).
 - Climax: Ensure the melodic peak occurs within the consequent phrase.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_2b.mp3" controls preload="metadata"></audio>
 
-##### Exercise 1.3
+#### Harmonic Reduction
 
-###### Rules
+_Extracting a melody from harmony itself: block chords reveal a hidden top-voice line, which is then shaped into a singable melody._
+
+
+**Exercise 1.3**
 
 Chord Progression:
 
@@ -239,13 +190,20 @@ Steps:
 - Preserve anchor notes.
 - Put the chords back, listen, and adjust.
 
-###### Result
+**Result**
 
 <audio src="./assets/1_3.mp3" controls preload="metadata"></audio>
 
-##### Exercise 2.1
+### Phase 2: Structure & Form
 
-###### Rules
+_Eight measures is a sketch. Phase 2 is about building something larger: a piece that has a real architecture, a middle, a contrast, and a return. It introduces two foundational tools: form (how sections relate to each other) and the leitmotiv (a recurring musical cell that carries identity and narrative meaning). By the end of this phase, a piece can tell a story - not just sound pleasant._
+
+#### ABA Form & Modulation
+
+_Structuring a piece as a journey: a main theme (A), a contrasting section in a new key (B), then a return home (A') - the foundation of musical narrative._
+
+
+**Exercise 2.1**
 
 Structure: ABA form, 24 measures
 
@@ -266,13 +224,16 @@ Section A' (measures 17-24):
 - At least one change compared to A: different cadence, added ornament, rhythmic variation, or shifted register.
 - Final cadence: Authentic (V→i) to conclude.
 
-###### Result
+**Result**
 
 <audio src="./assets/2_1.mp3" controls preload="metadata"></audio>
 
-##### Exercise 2.2a
+#### Leitmotiv & Transformations
 
-###### Rules
+_A leitmotiv is a short, identifiable musical cell tied to a character, place, or emotion. Its power lies in transformation: the same motif can be stretched, inverted, fragmented, or reharmonized to evolve with the story._
+
+
+**Exercise 2.2a**
 
 Leitmotif: Cm - F | Cm/Eb
 
@@ -281,13 +242,11 @@ Steps:
 - Rhythmic transformation
 - Modal transformation (Cm → C)
 
-###### Result
+**Result**
 
 <audio src="./assets/2_2a.mp3" controls preload="metadata"></audio>
 
-##### Exercise 2.2b
-
-###### Rules
+**Exercise 2.2b**
 
 Leitmotif: Gm | Adim - Gm/Eb
 
@@ -296,13 +255,16 @@ Steps:
 - Rhythmic transformation
 - Modal transformation (G - A - Cmaj9)
 
-###### Result
+**Result**
 
 <audio src="./assets/2_2b.mp3" controls preload="metadata"></audio>
 
-##### Exercise 2.3
+#### Theme & Variations
 
-###### Rules
+_Taking a theme and systematically reshaping it: first rhythmically, then ornamentally, then harmonically - keeping the core identity while exploring new colors._
+
+
+**Exercise 2.3**
 
 Steps:
 
@@ -310,13 +272,16 @@ Steps:
 - Turn it into a theme.
 - Vary it rhythmically, then ornamentally, then harmonically.
 
-###### Result
+**Result**
 
 <audio src="./assets/2_3.mp3" controls preload="metadata"></audio>
 
-##### Exercise 2.4
+#### Free Composition
 
-###### Rules
+_No constraints. The goal: finish something._
+
+
+**Exercise 2.4**
 
 Form: Complete piece (beginning, middle, end)
 
@@ -329,15 +294,13 @@ Steps:
 - Write a complete piece
 - Respect the time limit
 
-###### Result
+**Result**
 
 <audio src="./assets/2_4.mp3" controls preload="metadata"></audio>
 
 It took me twice the required time though.
 
-##### Exercise 2.5
-
-###### Rules
+**Exercise 2.5**
 
 Chord Progression:
 
@@ -349,13 +312,20 @@ Steps:
 
 - No constraints. Free rein.
 
-###### Result
+**Result**
 
 <audio src="./assets/2_5.mp3" controls preload="metadata"></audio>
 
-##### Exercise 3.1
+### Phase 3: Harmonic Color
 
-###### Rules
+_Once you can write a melody and shape a structure, the next question is: what does it feel like? Phase 3 is about expanding the harmonic palette beyond basic major and minor. Modes give each piece its own emotional texture. Modal borrowings introduce unexpected colors without breaking the tonal center. Chromatic mediants create the cinematic shifts that define film and game scoring. This is where composition starts to sound like a deliberate choice rather than a default._
+
+#### Modes & Ambiances
+
+_Each mode is a different emotional lens on the same musical material. Mixolydian feels open and folk-like; Lydian is luminous and dreamlike; Phrygian is tense and ancient; Dorian carries a bittersweet warmth._
+
+
+**Exercise 3.1**
 
 Structure: 4 short pieces, one per mode
 
@@ -379,13 +349,16 @@ Piece 4 (Dorian):
 - Theme + 1 rhythmic variation
 - Free chord progression
 
-###### Result
+**Result**
 
 <audio src="./assets/3_1.mp3" controls preload="metadata"></audio>
 
-##### Exercise 3.2
+#### Modal Borrowings
 
-###### Rules
+_Borrowing a chord from a parallel mode adds unexpected color without fully leaving the home key. A single borrowed chord can darken, brighten or surprise, all while keeping the tonal center intact._
+
+
+**Exercise 3.2**
 
 Chord Progression:
 
@@ -396,13 +369,11 @@ Steps:
 - Modal Reharmonization: Reharmonize the chords from Exercise 2.1 by integrating modal borrowings.
 - Constraint: Include at least 2 identifiable modal borrowings.
 
-###### Result
+**Result**
 
 <audio src="./assets/3_2.mp3" controls preload="metadata"></audio>
 
-##### Exercise 3.2b
-
-###### Rules
+**Exercise 3.2b**
 
 Chord Progression:
 
@@ -412,13 +383,15 @@ Steps:
 
 - Modal Reharmonization: Reharmonize the melody using modal borrowings.
 
-###### Result
+**Result**
 
 <audio src="./assets/3_2b.mp3" controls preload="metadata"></audio>
 
-##### Exercise 3.3
+#### Chromatic Mediants
 
-###### Rules
+_A chromatic mediant moves to a chord a third away that shares at least one common tone but sits outside the diatonic scale. The effect is an abrupt yet smooth shift in color.
+
+**Exercise 3.3**
 
 Chord Progression:
 
@@ -431,13 +404,15 @@ Steps:
 - Chromatic Mediants: Include at least 2 chromatic mediant relationships.
 - Melody + Integrated Leitmotif.
 
-###### Result
+**Result**
 
 <audio src="./assets/3_3.mp3" controls preload="metadata"></audio>
 
-##### Exercise 3.4
+#### Synthesis
 
-###### Rules
+_Combining everything learned so far: modal writing, modulation, leitmotiv, and structure in a single piece._
+
+**Exercise 3.4**
 
 Length: 24 measures
 
@@ -450,7 +425,7 @@ Steps:
 - Integrate a leitmotif.
 - Include at least one modulation OR one modal borrowing.
 
-###### Result
+**Result**
 
 I chose a G Mixolydian
 

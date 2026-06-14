@@ -31,6 +31,24 @@ _June 2026_
         - [Exercise 1.3](#exercise-13)
           - [Rules](#rules-7)
           - [Result](#result-7)
+        - [Exercise 2.1](#exercise-21)
+          - [Rules](#rules-8)
+          - [Result](#result-8)
+        - [Exercise 2.2a](#exercise-22a)
+          - [Rules](#rules-9)
+          - [Result](#result-9)
+        - [Exercise 2.2b](#exercise-22b)
+          - [Rules](#rules-10)
+          - [Result](#result-10)
+        - [Exercise 2.3](#exercise-23)
+          - [Rules](#rules-11)
+          - [Result](#result-11)
+        - [Exercise 2.4](#exercise-24)
+          - [Rules](#rules-12)
+          - [Result](#result-12)
+        - [Exercise 2.5](#exercise-25)
+          - [Rules](#rules-13)
+          - [Result](#result-13)
 
 
 
@@ -209,3 +227,113 @@ Steps:
 ###### Result
 
 <audio src="./assets/1_3.mp3" controls preload="metadata"></audio>
+
+##### Exercise 2.1
+
+###### Rules
+
+Structure: ABA form, 24 measures
+
+Key: Start in a minor key (your choice).
+
+Section A (measures 1-8):
+- Minor key, established character.
+- Final cadence: Half cadence or Authentic cadence (your choice).
+
+Section B (measures 9-16):
+- Modulate to the relative major using a pivot chord.
+- Confirm the new key with a V→I cadence in the relative major.
+- Create contrast with A: change at least 2 elements (mode is already changed by modulation, so choose from rhythm, melodic character [e.g., stepwise vs. leaps], or dynamics).
+- Final cadence: Prepare the return to A (Half cadence or transition).
+
+Section A' (measures 17-24):
+- Return of theme A in the original minor key.
+- At least one change compared to A: different cadence, added ornament, rhythmic variation, or shifted register.
+- Final cadence: Authentic (V→i) to conclude.
+
+###### Result
+
+<audio src="./assets/2_1.mp3" controls preload="metadata"></audio>
+
+##### Exercise 2.2a
+
+###### Rules
+
+Leitmotif: Cm - F | Cm/Eb
+
+Steps:
+
+- Rhythmic transformation
+- Modal transformation (Cm → C)
+
+###### Result
+
+<audio src="./assets/2_2a.mp3" controls preload="metadata"></audio>
+
+##### Exercise 2.2b
+
+###### Rules
+
+Leitmotif: Gm | Adim - Gm/Eb
+
+Steps:
+
+- Rhythmic transformation
+- Modal transformation (G - A - Cmaj9)
+
+###### Result
+
+<audio src="./assets/2_2b.mp3" controls preload="metadata"></audio>
+
+##### Exercise 2.3
+
+###### Rules
+
+Steps:
+
+- Retrieve melody from Exercise 1.2a.
+- Turn it into a theme.
+- Vary it rhythmically, then ornamentally, then harmonically.
+
+###### Result
+
+<audio src="./assets/2_3.mp3" controls preload="metadata"></audio>
+
+##### Exercise 2.4
+
+###### Rules
+
+Form: Complete piece (beginning, middle, end)
+
+Length: 16 measures
+
+Time Constraint: Finish in 40 minutes chrono
+
+Steps:
+
+- Write a complete piece
+- Respect the time limit
+
+###### Result
+
+<audio src="./assets/2_4.mp3" controls preload="metadata"></audio>
+
+It took me twice the required time though.
+
+##### Exercise 2.5
+
+###### Rules
+
+Chord Progression:
+
+Free
+
+8 measures, 4/4 time, any key
+
+Steps:
+
+- No constraints. Free rein.
+
+###### Result
+
+<audio src="./assets/2_5.mp3" controls preload="metadata"></audio>

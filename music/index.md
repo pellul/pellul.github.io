@@ -228,6 +228,8 @@ Section A' (measures 17-24):
 
 <audio src="./assets/2_1.mp3" controls preload="metadata"></audio>
 
+_This one took a long time and left me frustrated. I kept chasing a beautiful, original result instead of just doing the exercise - spending hours on transitions I was never happy with, when that wasn't the point. On the positive side: I wrote 24 measures with an ABA structure and pulled off a modulation. The modulation is barely perceptible though - modulating to the relative major is the smoothest option, so it lacks the drama a more distant key would bring. I kept it simple deliberately; adding a remote modulation on top of everything else would have been too much novelty at once._
+
 #### Leitmotiv & Transformations
 
 _A leitmotiv is a short, identifiable musical cell tied to a character, place, or emotion. Its power lies in transformation: the same motif can be stretched, inverted, fragmented, or reharmonized to evolve with the story._
@@ -258,6 +260,8 @@ Steps:
 **Result**
 
 <audio src="./assets/2_2b.mp3" controls preload="metadata"></audio>
+
+_Both leitmotivs came together easily. The rhythmic transformation though felt underwhelming in practice: with so few notes and so little harmonic context around the motif, there isn't much for the transformation to work with.._
 
 #### Theme & Variations
 
@@ -353,6 +357,8 @@ Piece 4 (Dorian):
 
 <audio src="./assets/3_1.mp3" controls preload="metadata"></audio>
 
+_This took around 8 hours but it was satisfying. Moving between four different modes in sequence gave each piece its own identity, and that contrast felt genuinely refreshing. The modes aren't fully internalized yet though; the colors need more repetition before they become instinctive. The main lesson: the characteristic note of each mode has to be decided at the chord grid stage, not added as an afterthought once the harmony is already written._
+
 #### Modal Borrowings
 
 _Borrowing a chord from a parallel mode adds unexpected color without fully leaving the home key. A single borrowed chord can darken, brighten or surprise, all while keeping the tonal center intact._
@@ -389,7 +395,7 @@ Steps:
 
 #### Chromatic Mediants
 
-_A chromatic mediant moves to a chord a third away that shares at least one common tone but sits outside the diatonic scale. The effect is an abrupt yet smooth shift in color.
+_A chromatic mediant moves to a chord a third away that shares at least one common tone but sits outside the diatonic scale. The effect is an abrupt yet smooth shift in color._
 
 **Exercise 3.3**
 
@@ -427,6 +433,6 @@ Steps:
 
 **Result**
 
-I chose a G Mixolydian
-
 <audio src="./assets/3_4.mp3" controls preload="metadata"></audio>
+
+_I chose G Mixolydian, but it didn't inspire me much - the mode felt a bit flat to work with. The B section in E Dorian was where things got more interesting. I'm particularly happy with the A7 - A#dim7 - B7 movement: the upper voices stay static while only the bass moves chromatically, which I found at the piano without overthinking it. The chromatic mediant from B to D to transition back to section A' also felt like a genuine discovery. On the other hand, writing left and right hand parts that work together convincingly was genuinely hard - something I didn't fully solve here._

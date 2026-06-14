@@ -49,6 +49,21 @@ _June 2026_
         - [Exercise 2.5](#exercise-25)
           - [Rules](#rules-13)
           - [Result](#result-13)
+        - [Exercise 3.1](#exercise-31)
+          - [Rules](#rules-14)
+          - [Result](#result-14)
+        - [Exercise 3.2](#exercise-32)
+          - [Rules](#rules-15)
+          - [Result](#result-15)
+        - [Exercise 3.2b](#exercise-32b)
+          - [Rules](#rules-16)
+          - [Result](#result-16)
+        - [Exercise 3.3](#exercise-33)
+          - [Rules](#rules-17)
+          - [Result](#result-17)
+        - [Exercise 3.4](#exercise-34)
+          - [Rules](#rules-18)
+          - [Result](#result-18)
 
 
 
@@ -337,3 +352,106 @@ Steps:
 ###### Result
 
 <audio src="./assets/2_5.mp3" controls preload="metadata"></audio>
+
+##### Exercise 3.1
+
+###### Rules
+
+Structure: 4 short pieces, one per mode
+
+Piece 1 (Mixolydian):
+- 8 measures
+- Modulation to the relative minor
+- Free chord progression
+
+Piece 2 (Lydian):
+- 8 measures
+- Imposed Leitmotif (use one from Exercise 2.2)
+- Free chord progression
+
+Piece 3 (Phrygian):
+- 8 measures
+- Short ABA form (3+2+3 measures)
+- Free chord progression
+
+Piece 4 (Dorian):
+- 8 measures
+- Theme + 1 rhythmic variation
+- Free chord progression
+
+###### Result
+
+<audio src="./assets/3_1.mp3" controls preload="metadata"></audio>
+
+##### Exercise 3.2
+
+###### Rules
+
+Chord Progression:
+
+Reuse Exercise 2.1
+
+Steps:
+
+- Modal Reharmonization: Reharmonize the chords from Exercise 2.1 by integrating modal borrowings.
+- Constraint: Include at least 2 identifiable modal borrowings.
+
+###### Result
+
+<audio src="./assets/3_2.mp3" controls preload="metadata"></audio>
+
+##### Exercise 3.2b
+
+###### Rules
+
+Chord Progression:
+
+Reuse [Frère Jacques](https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques)
+
+Steps:
+
+- Modal Reharmonization: Reharmonize the melody using modal borrowings.
+
+###### Result
+
+<audio src="./assets/3_2b.mp3" controls preload="metadata"></audio>
+
+##### Exercise 3.3
+
+###### Rules
+
+Chord Progression:
+
+Free
+
+8 measures, 4/4 time, any key
+
+Steps:
+
+- Chromatic Mediants: Include at least 2 chromatic mediant relationships.
+- Melody + Integrated Leitmotif.
+
+###### Result
+
+<audio src="./assets/3_3.mp3" controls preload="metadata"></audio>
+
+##### Exercise 3.4
+
+###### Rules
+
+Length: 24 measures
+
+Structure: ABA form
+
+Key/Mode: Your choice
+
+Steps:
+
+- Integrate a leitmotif.
+- Include at least one modulation OR one modal borrowing.
+
+###### Result
+
+I chose a G Mixolydian
+
+<audio src="./assets/3_4.mp3" controls preload="metadata"></audio>
